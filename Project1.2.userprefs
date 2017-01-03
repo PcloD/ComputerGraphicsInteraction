@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Materials/EnvironmentTextures/skyboxTest/thesky/Scripts/TriggerStars.cs">
+    <Files>
+      <File FileName="Assets/Materials/EnvironmentTextures/skyboxTest/thesky/Scripts/TriggerStars.cs" Line="1" Column="1" />
+      <File FileName="Assets/Materials/EnvironmentTextures/skyboxTest/thesky/Scripts/AutoIntensity.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Utility/AutoMoveAndRotate.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
